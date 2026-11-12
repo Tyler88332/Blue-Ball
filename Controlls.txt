@@ -1,0 +1,25 @@
+Pc controls:
+
+Blue Ball:
+A=left
+D=right
+S=insult
+F=ability
+space=jump
+
+Red Ball:
+Left arrow key=left
+Right arrow key=right
+Up arrow key=ability
+Down arrow key=insult
+
+Misc:
+E=turn red ball into AI
+
+Controller controls:
+
+A=jump(only for blue)
+B=insult
+Y=swap to red ball
+X=ability
+Left analog stick = movment
